@@ -1,0 +1,10 @@
+colorama
+jupyterlab
+matplotlib
+medmnist
+numpy
+scikit-learn
+seaborn
+torch
+torchvision
+
